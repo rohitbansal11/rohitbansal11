@@ -25,10 +25,6 @@ Welcome to my GitHub repository! I'm passionate about creating elegant solutions
 - [My Portfolio](https://my-protfolio-zeta.vercel.app/)
 - [Anime Watching Site (my anime)](https://next-app-lyart-two.vercel.app/)
 - [rbmoviw (An interactive platform for comprehensive movie, TV show, and celebrity information)](https://rbmoviw.vercel.app/)
-- ReCaller Website
-- SchoolerOps
-- Bright Swipe
-- Strip Me
 
 
 ### 📊 GitHub Stats
